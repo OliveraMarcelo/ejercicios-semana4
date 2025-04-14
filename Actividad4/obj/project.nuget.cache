@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXm8ukAzwLI=",
+  "success": true,
+  "projectFilePath": "/home/marceloo/ifts/Actividad4/Actividad4.csproj",
+  "expectedPackageFiles": [
+    "/home/marceloo/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/marceloo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/marceloo/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

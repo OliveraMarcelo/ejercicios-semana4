@@ -1,0 +1,14 @@
+/home/marceloo/ifts/Actividad4/bin/Debug/net8.0/Actividad4
+/home/marceloo/ifts/Actividad4/bin/Debug/net8.0/Actividad4.deps.json
+/home/marceloo/ifts/Actividad4/bin/Debug/net8.0/Actividad4.runtimeconfig.json
+/home/marceloo/ifts/Actividad4/bin/Debug/net8.0/Actividad4.dll
+/home/marceloo/ifts/Actividad4/bin/Debug/net8.0/Actividad4.pdb
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.GeneratedMSBuildEditorConfig.editorconfig
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.AssemblyInfoInputs.cache
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.AssemblyInfo.cs
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.csproj.CoreCompileInputs.cache
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.dll
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/refint/Actividad4.dll
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.pdb
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/Actividad4.genruntimeconfig.cache
+/home/marceloo/ifts/Actividad4/obj/Debug/net8.0/ref/Actividad4.dll
