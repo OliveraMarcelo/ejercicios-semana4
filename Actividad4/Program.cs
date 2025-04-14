@@ -14,9 +14,9 @@ public class Actividad4
         Console.WriteLine("Inicializar la clase Persona con todos los atributos");
         Persona persona1 = new Persona("Marcelo Daniel", 22, 43814724);
         persona1.mostrarDatos();
-        Console.WriteLine("Seteamos edad");
+        Console.WriteLine("Marcelo cumple años");
         persona1.setEdad(23);
-        persona1.mostrarDatos();
+        Console.WriteLine("Que edad tiene ahora Marcelo? El ahora tiene " + persona1.getEdad());
         //EJERCICIO 2
         Console.WriteLine("");
         Console.WriteLine("Ejercicio 2: ");
